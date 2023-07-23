@@ -1,3 +1,5 @@
+<img src="nicolai.jpg" width=150 style="float: right; border-radius: 15px" />
+
 I am Nicolai Henriksen. I am Software Engineer by heart. 
 
 I love technology and I love enabling people. I love going broad and I love going deep. Great things appear when ideas are developed and creativity applied together with other smart people.
