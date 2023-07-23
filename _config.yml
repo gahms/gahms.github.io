@@ -1,6 +1,9 @@
-theme: minima
 title: Nicolai Henriksen
-description: My personal page
+email: nicolai@drengene.dk
+description: I love technology and I love enabling people. I love going broad and I love going deep.
+github_username:  gahms
+
+theme: minima
 minima:
   skin: auto
   social_links:
