@@ -1,3 +1,8 @@
 theme: minima
-title: Home of Nicolai Henriksen
+title: Nicolai Henriksen
 description: My personal page
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/gahms" }
+    - { platform: twitter, user_url: "https://twitter.com/nicolaih" }
